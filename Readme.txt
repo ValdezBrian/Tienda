@@ -1,1 +1,1 @@
-Proyecto programacion para internet
+Proyecto programacion para internet desarrollado con php y js
